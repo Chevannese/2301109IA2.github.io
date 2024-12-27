@@ -1,0 +1,8 @@
+sampleUser = 
+[
+    {name: "Tommy", password: "easypass"},
+    {name: "Chise", password: "peaceofmind"},
+    {name: "Jonathan", password: "rustLinux"},
+    {name: "Christeen", password: "onepunch876"},
+    {name: "Kurumi", password: "Shido1234"}
+];
